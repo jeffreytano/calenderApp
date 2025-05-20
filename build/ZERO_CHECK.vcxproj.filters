@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jeffr\Desktop\github\flutter\calenderTool\build\CMakeFiles\746d384eb2b434d61944d9684eda158b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DAFF13D4-7152-3CE8-9ECA-7B2EE7B650B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

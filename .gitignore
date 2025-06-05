@@ -27,3 +27,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+*.apk
+.flutter-plugin-dependencies
+.filecache
+app.dill
+kernel_snapshot_program.d
+kernel_snapshot_program.stamp
+cache.dill.track.dill
+index-*T*.json
+kernel_blob.bin
+generate_cxx_metadata_*_timing.txt
+dex-renamer-state.txt

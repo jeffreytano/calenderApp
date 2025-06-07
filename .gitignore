@@ -29,7 +29,7 @@ bin/
 .DS_Store
 
 *.apk
-.flutter-plugin-dependencies
+.flutter-plugins-dependencies
 .filecache
 app.dill
 kernel_snapshot_program.d
